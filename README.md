@@ -1,5 +1,5 @@
 # Steam Database
-Working with a team of four other developers, we created a replica of the Steam library with tables that the Steam library has on their [website](https://store.steampowered.com/). This is not a full replica, nor do we claim to have replicated Steam in any way. We used the Steam library as inspiration for this project, and compiled a smaller database to test our abilities and prove to ourselves that a database like Steam isn't out of reach for future endeavors.
+Working with a team of four other developers, we created a replica of the Steam library with tables that the Steam has on their [website](https://store.steampowered.com/). This is not a full replica, nor do we claim to have replicated Steam in any way. We used the Steam library as inspiration for this project, and compiled a smaller database to test our abilities and prove to ourselves that a database like Steam isn't out of reach for future endeavors.
 
 This database includes many tables, such as game, genre, reviews, and so forth with the data to go with it. We first created the ERD, then created CSV files to input the data. One of our group members decided to make a Python sciprt to input the data we thought of into the database, and after you do that for yourself, you will have a fully populated database to play around with and manipulate how you want.
 
